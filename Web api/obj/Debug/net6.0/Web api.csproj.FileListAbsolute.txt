@@ -1,0 +1,160 @@
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\appsettings.Development.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\appsettings.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Web api.exe
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Web api.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Web api.runtimeconfig.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Web api.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Web api.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\staticwebassets.build.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\staticwebassets.development.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\scopedcss\bundle\Web api.styles.css
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CopyComplete
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\refint\Web api.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\Web api.genruntimeconfig.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\obj\Debug\net6.0\ref\Web api.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Azure.Core.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Azure.Identity.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Memory.Data.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Security.Permissions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\BL.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Dal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Model.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\BL.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Dal.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Web api\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.MvcApplicationPartsAssemblyInfo.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\refint\Web api.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\appsettings.Development.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\appsettings.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Web api.exe
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Web api.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Web api.runtimeconfig.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Web api.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Web api.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Azure.Core.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Azure.Identity.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\BL.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Model.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\BL.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\staticwebassets.build.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\staticwebassets.development.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\scopedcss\bundle\Web api.styles.css
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\Web api.genruntimeconfig.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Web api\obj\Debug\net6.0\ref\Web api.dll

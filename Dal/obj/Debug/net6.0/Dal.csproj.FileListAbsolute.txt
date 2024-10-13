@@ -1,0 +1,30 @@
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\bin\Debug\net6.0\Dal.deps.json
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\bin\Debug\net6.0\Dal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\bin\Debug\net6.0\Dal.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\refint\Dal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\ref\Dal.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\bin\Debug\net6.0\Model.dll
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\bin\Debug\net6.0\Model.pdb
+L:\שנה ב\משרד החינוך\גילי לנדא\C#++\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.csproj.AssemblyReference.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfoInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.AssemblyInfo.cs
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CoreCompileInputs.cache
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\refint\Dal.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\bin\Debug\net6.0\Dal.deps.json
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\bin\Debug\net6.0\Dal.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\bin\Debug\net6.0\Dal.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\bin\Debug\net6.0\Model.dll
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\bin\Debug\net6.0\Model.pdb
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\Dal.csproj.CopyComplete
+D:\לימודים\תכנות\תכנות יד\C#++\שב\Web api\Dal\obj\Debug\net6.0\ref\Dal.dll
